@@ -50,7 +50,7 @@ sentence = st.text_input('Talk at your own risk:')
 def insult():
         st.write("ok umm I'm a little slow ")
         st.write("starting")
-        st.write("alright")
+        st.write("Pliss wait")
         context_setting = Completion(context, examples)
         print("context")
         #what the idiot bot hgas to answer
